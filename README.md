@@ -23,15 +23,23 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-0078d7.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## My Projects
 
-#### Comigo | Chat App
+### Comigo | Chat App
 
-[GitHub](https://https://github.com/caitlynng/comigo-chat-app) | [Live Demo](https://comigo.vercel.app/)  
-[<img height='150' src="assets/img/comigo.jpg"/>](https://comigo.vercel.app/)
+🔸 [GitHub](https://github.com/caitlynng/comigo-chat-app) | [Live Demo](https://comigo.vercel.app/)
+
+[<img height='150' width='250' src="assets/img/comigo.jpg"/>](https://comigo.vercel.app/)
+
+### Pristine | Business Expense Management App
+
+🔸 [GitHub](https://github.com/caitlynng/pristine-demo) | [Live Demo](https://pristinedept.com/)
+
+[<img height='150' width='250' src="assets/img/pristine.png"/>](https://pristinedept.com/)
 
 ## ContactMe
 
