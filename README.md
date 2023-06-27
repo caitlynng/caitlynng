@@ -41,7 +41,6 @@ I am a Full Stack Developer with a passion for creating innovative and user-frie
 
 [<img height='150' width='250' src="assets/img/pristine.png"/>](https://pristinedept.com/)
 
-## ContactMe
+## Contact Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/caitlyn6633/)
-[<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:caitlyn6633@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caitlyn6633)
