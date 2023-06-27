@@ -1,6 +1,10 @@
-## Hi there 👋, my name is Caitlyn
+## Hi there 👋
 
-I am a Full Stack Developer with a passion for creating innovative and user-friendly web applications. My skills include proficiency in various programming languages such as JavaScript and HTML/CSS, as well as experience with popular frameworks such as React and Node.js. I am always eager to learn new technologies and stay up-to-date with industry trends. I am a problem-solver at heart and strive to create elegant solutions for complex challenges.
+I'm **Caitlyn** and I am a Full Stack Developer with a passion for creating innovative and user-friendly web applications. 
+
+- 🔭 I’m currently working on InterviewPrepPro - an AI-generated interview question practice app.
+- 🌱 I’m on a quest to dive deeper into Redux.
+- 🤔 I’m looking for help with AWS.
 
 ## Languages and Tools
 
