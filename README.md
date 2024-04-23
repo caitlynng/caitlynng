@@ -44,7 +44,3 @@ I'm **Caitlyn** and I am a Full Stack Developer with a passion for creating inno
 🔸 [GitHub](https://github.com/caitlynng/pristine-demo) | [Live Demo](https://pristinedept.com/)
 
 [<img height='150' width='250' src="assets/img/pristine.png"/>](https://pristinedept.com/)
-
-## Contact Me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/caitlyn6633)
